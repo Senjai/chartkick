@@ -1,4 +1,4 @@
-# Chartkick
+﻿# Chartkickdddd
 
 Create beautiful Javascript charts with one line of Ruby. No more fighting with charting libraries!
 
